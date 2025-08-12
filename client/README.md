@@ -73,13 +73,6 @@ client/
 
 ---
 
-## 🤝 Contributions
 
-Contributions are welcome! Feel free to submit pull requests or open issues for any suggestions or improvements.
+            
 
----
-
-## 👨‍💻 Author
-
-* **Project Lead**: Sohal Rahaman
-* For any inquiries or support, please open an issue or PR.
